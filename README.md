@@ -1,6 +1,6 @@
 # 📊 Online Retail Data Visualization Project
 
-This project presents a series of visualizations created using the **Online Retail** dataset, showcasing exploratory data analysis and insights into customer purchasing behavior. These visuals were developed as part of a **Data Visualization Certification** program offered by **DataCamp**.
+This project presents a series of visualizations created using the **Online Retail** dataset, showcasing exploratory data analysis and insights into customer purchasing behavior. These visuals were developed as part of a **Data Visualization Certification** program offered by **TATA**.
 
 ## 📝 Project Description
 
